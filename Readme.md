@@ -2,4 +2,3 @@
 + Cd wi-user-guide/scripts/
 + Run: ./run.sh .. content.html
 + Open doc.htm
-//first commit
