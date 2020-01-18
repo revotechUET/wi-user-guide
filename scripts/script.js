@@ -7,8 +7,8 @@ $(document).ready(function() {
     let width = $('[DocPartType="Table of Contents"]')[0].clientWidth;
     var ss = $('[DocPartType="Table of Contents"]').slimScroll({
         size: '5px',
-        width: width,
-        height: '100vh'
+        width: '350px',
+        height: '100vh',
     });
     // console.log(ss, ss.parent());
     ss.parent().css({
